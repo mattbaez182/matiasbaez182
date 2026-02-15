@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="ChatGPT Image 15 feb 2026, 16_25_56" src="https://github.com/user-attachments/assets/b7692aee-d56c-4022-9bc4-ea08ae43af30" />
 
 
-# 👋 Hola, soy Matías Baez
+# <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="30px"> Hola, soy Matías Baez
 
 💻 Full Stack Developer en formación  
 🐍 Python Developer | Backend-Oriented  
